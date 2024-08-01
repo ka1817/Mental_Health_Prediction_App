@@ -1,0 +1,15 @@
+streamlit==1.36.0
+joblib==1.1.1
+nltk==3.8.1
+streamlit
+pandas
+numpy
+scikit-learn  # or other ML libraries
+tensorflow  # if using TensorFlow models
+torch  # if using PyTorch models
+matplotlib  # for visualization
+nltk  # for natural language processing
+
+
+
+
